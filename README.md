@@ -26,6 +26,8 @@ Designated criteria:
 
 修改 `main.py` 154行读入的损伤图片路径，运行`main.py`即可
 
+!()[./results/random_scribbles.png]
+
 ## Task #2
 
 - Missing pixels from 10% to 90%
@@ -34,6 +36,7 @@ Designated criteria:
 
 然后运行 `task2.py` 即可得到结果
 
+!()[./results/1_linear.png]
 
 
 `plot.py` 用来画曲线图
