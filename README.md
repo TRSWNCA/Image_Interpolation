@@ -11,13 +11,9 @@ Methods:
 
 Designated criteria:
 
-- MSE between the repaired image and the original one
-
-- PSNR between the repaired image and the original one
-
-- SSIM between the repaired image and the original one
-
-- Visual comparison
+- MSE
+- PSNR
+- SSIM
 
 ## Task #1
 
